@@ -1349,5 +1349,19 @@
         "mail.xylon.de"
       ]
     }
+    "goppold.net": {
+      "mode": "testing",
+      "mxs": [
+        "mail.goppold.net",
+        "mail2.goppold.net"
+      ]
+    },
+    "tbz-pariv.de": {
+      "mode": "testing",
+      "mxs": [
+        "mail.tbz-pariv.de",
+        "mail2.tbz-pariv.de"
+      ]
+    },
   }
 }
